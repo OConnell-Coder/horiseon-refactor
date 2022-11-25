@@ -15,11 +15,13 @@ Then, a simple URL will be provided for access.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+<!-- Add link to website -->
+<!-- Add link to GitHub repo -->
 
+<!-- Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/screenshot.png) -->
 
 ## Credits
 
