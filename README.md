@@ -15,7 +15,7 @@ Then, a simple URL will be provided for access.
 
 ## Usage
 
-Link to Deployed Webpage: https://oconnell-coder.github.io/horiseon-refactor/#social-media-marketing
+Link to Deployed Webpage: https://oconnell-coder.github.io/horiseon-refactor/
 
 Link to GitHub Repo: https://github.com/OConnell-Coder/horiseon-refactor
 
