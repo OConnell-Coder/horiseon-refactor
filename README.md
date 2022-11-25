@@ -15,13 +15,13 @@ Then, a simple URL will be provided for access.
 
 ## Usage
 
-<!-- Add link to website -->
-<!-- Add link to GitHub repo -->
+Link to Deployed Webpage: https://oconnell-coder.github.io/horiseon-refactor/#social-media-marketing
 
-<!-- Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Link to GitHub Repo: https://github.com/OConnell-Coder/horiseon-refactor
 
-![alt text](assets/images/screenshot.png) -->
+![Screenshot-1](assets/images/screenshot-1.png)
+![Screenshot-2](assets/images/screenshot-2.png)
+![Screenshot-3](assets/images/screenshot-3.png)
 
 ## Credits
 
